@@ -1,0 +1,8 @@
+C:\Users\AlShaheen\source\repos\school_management\school_management\bin\Debug\school_management.exe.config
+C:\Users\AlShaheen\source\repos\school_management\school_management\bin\Debug\school_management.exe
+C:\Users\AlShaheen\source\repos\school_management\school_management\bin\Debug\school_management.pdb
+C:\Users\AlShaheen\source\repos\school_management\school_management\obj\Debug\school_management.csproj.AssemblyReference.cache
+C:\Users\AlShaheen\source\repos\school_management\school_management\obj\Debug\school_management.csproj.SuggestedBindingRedirects.cache
+C:\Users\AlShaheen\source\repos\school_management\school_management\obj\Debug\school_management.csproj.CoreCompileInputs.cache
+C:\Users\AlShaheen\source\repos\school_management\school_management\obj\Debug\school_management.exe
+C:\Users\AlShaheen\source\repos\school_management\school_management\obj\Debug\school_management.pdb
